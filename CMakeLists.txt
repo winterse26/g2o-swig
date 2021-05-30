@@ -527,3 +527,4 @@ endif()
 
 # Include the subdirectories
 add_subdirectory(g2o)
+add_subdirectory(swig)
