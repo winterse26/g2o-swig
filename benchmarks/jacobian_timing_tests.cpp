@@ -1,7 +1,7 @@
 #include <benchmark/benchmark.h>
 
 #include "g2o/core/dynamic_aligned_buffer.hpp"
-#include "EXTERNAL/ceres/fixed_array.h"
+#include "g2o/EXTERNAL/ceres/fixed_array.h"
 
 // Test several different ways of evaluating Jacobians to see the impact of different ways of implementing stuff.
 
